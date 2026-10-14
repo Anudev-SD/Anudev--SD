@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Anudev S. D.
+# Hi there 👋, I'm Anudev Shyna Dinesh
 
 I'm a Computer Science graduate from Kerala, India, interested in **Generative AI, Agentic AI, Machine Learning, and building practical AI applications**. I enjoy turning ideas into useful projects—from retrieval-augmented generation (RAG) assistants to multi-agent workflows—and continuously improving my skills through hands-on learning.
 
